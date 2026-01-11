@@ -1,7 +1,9 @@
+Order-Level Sales Performance & Target Analysis
+
 Problem Statement
 
-Businesses often track sales targets at a category and monthly level, but transactional data is usually available at order and item levels. This mismatch makes it difficult to evaluate whether the business is meeting its sales goals.
+Businesses often define sales targets at a monthly and category level, while actual transactional data is recorded at order and order-item levels. This difference in data granularity makes it challenging to accurately evaluate sales performance and measure whether business targets are being achieved.
 
-The objective of this project is to analyze order-level sales data by integrating order, order-item, and sales target datasets to evaluate overall sales performance and measure target achievement across product categories and time periods.
+The objective of this project is to bridge this gap by integrating order-level, order-item, and sales target datasets to analyze overall sales performance and assess target achievement across product categories and time periods.
 
-Using Python, this project cleans and transforms raw transactional data into analysis-ready datasets, identifies sales trends and profitability patterns, and compares actual sales against predefined targets to highlight underperforming and overperforming categories.
+Using Python, this project performs data cleaning, transformation, and integration to create analysis-ready datasets. It then evaluates key sales and profitability metrics, analyzes monthly and category-wise trends, and compares actual sales against predefined targets to identify underperforming and overperforming categories.
