@@ -1,4 +1,7 @@
-“Order Fulfillment & Sales Performance Analysis”
+Problem Statement
 
-problem Statement ->
-		Analyze order fulfillment, item-level sales, and target vs actual sales performance to identify delays, revenue gaps, and optimization opportunities.
+Businesses often track sales targets at a category and monthly level, but transactional data is usually available at order and item levels. This mismatch makes it difficult to evaluate whether the business is meeting its sales goals.
+
+The objective of this project is to analyze order-level sales data by integrating order, order-item, and sales target datasets to evaluate overall sales performance and measure target achievement across product categories and time periods.
+
+Using Python, this project cleans and transforms raw transactional data into analysis-ready datasets, identifies sales trends and profitability patterns, and compares actual sales against predefined targets to highlight underperforming and overperforming categories.
